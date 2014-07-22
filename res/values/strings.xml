@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YoPool</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="yopool">YoPool</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="edit_message"></string>
+    <string name="create_account">Create Account ></string>
+    <string name="exit">Exit</string>
+    <string name="login">Login</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="mobileno">Mobile #</string>
+    <string name="emailid">Email Id</string>
+    <string name="location">Location</string>
+    <string name="interested">Interested to provide a ride</string>
+    <string name="availability">Seats available</string>
+    <string name="register">Register</string>
+
+    <string-array name="seats_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string name="logout">Logout</string>
+    <string name="yodriver">YoDriver</string>
+    <string name="yopassenger">YoPassenger</string>
+    <string name="new_button">New</string>
+    <string name="update_button">Update</string>
+    <string name="title_activity_welcome_new">WelcomeNewActivity</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="time">Time</string>
+    <string name="submit">Submit</string>
+    <string name="modify">Modify</string>
+    <string name="cancel">Cancel</string>
+    <string name="entry1">Entry1</string>
+    <string name="entry2">Entry2</string>
+    <string name="title_activity_update_driver_details">UpdateDriverDetails</string>
+    <string name="departure_modify">Departure</string>
+    <string name="max_passengers">Max Passengers</string>
+    <string name="title_activity_update_passenger_details">UpdatePassengerDetails</string>
+    
+    
+    
+    
+    <string name="appdesc">Get a free ride from a fellow Yahoo. Just choose when and where to ride and who to ride with and you are set for a quick and safe ride. </string>
+   <string name="selectdriver"> Following drivers are available as per your itinerary. Please make your choice</string>
+   <string name="driver1">YoDriver 1</string>
+   <string name="driver2">YoDriver 2</string>
+   <string name="driver3">YoDriver 3</string>
+   <string name="book">Book</string>
+   <string name="booksuccess">YoDriver booked successfully</string>
+   <string name="driver">Driver</string>
+   
+   <string name="driverhint">drivers</string>
+   <string name="pickupplace">Sunnyvale</string>
+   <string name="dropplace">San Francisco</string>
+   <string name="editdriver">Edit</string>
+   <string name="updatesuccess">Updated Successfully</string>
+   
+   <string name="title_activity_driver_select">DriverSelectActivity</string>
+   <string name="title_activity_passenger__update_">Passenger_Update_Activity</string>
+   
+   
+   <string name="title_activity_passenger_update">PassengerUpdateActivity</string>
+    
+
+</resources>
